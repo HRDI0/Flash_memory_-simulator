@@ -1,0 +1,11 @@
+﻿  Flash_memory.c
+C:\Users\허성민\source\repos\Flash_memory\Flash_memory\Flash_memory.c(11,12): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\허성민\source\repos\Flash_memory\Flash_memory\Flash_memory.c(11,12): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\허성민\source\repos\Flash_memory\Flash_memory\Flash_memory.c(11,12): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%c'에 필요합니다.
+  Flash_menu.c
+C:\Users\허성민\source\repos\Flash_memory\Flash_memory\Flash_memory.c(11,12): message : 이 인수는 버퍼 크기로 사용됩니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 15 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  Flash_memory.vcxproj -> C:\Users\허성민\source\repos\Flash_memory\Release\Flash_memory.exe
